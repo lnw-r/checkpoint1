@@ -40,13 +40,21 @@ echo '"Evidemment !"'
 6. fg %1
 
 7. 	Couche 2 :
+
 	Switch : Gère les adresses MAC, relie les appareils sur un même réseau.
 	Pont : Relie des segments de réseau.
 	Couche 3 :
+
 	Routeur : Gère les adresses IP, relie différents réseaux.
 	Passerelle : Relie des réseaux de types différents.
 
-8.	•	cd : cd
-	•	cp : Copy-Item
-	•	mkdir : mkdir 
+8.	cd : cd
+
+	cp : Copy-Item
+
+mkdir : mkdir 
+
+9. 	Payload : C’est les données utiles dans une trame Ethernet.
+       CIDR remplace les classes IP pour mieux gérer les adresses et éviter le gaspillage.
+
 
