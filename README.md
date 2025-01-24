@@ -10,11 +10,18 @@ evaluation
 4.  la structure if en bash permet d'exécuter des commande ssi une conditions est vrai
    exemple:
 #!/bin/bash
+
 fichier="monfichier.txt"
+
 if [ -e "$fichier" ]
 
 then 
+
 echo "le fichier existe"
+
 else 
+
 echo " le  fichiern'existe pas"
+
 fi
+
