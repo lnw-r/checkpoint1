@@ -9,6 +9,7 @@ evaluation
 3. la différence entre  une variable d'environement et une variable local est que la variable d'environement  est accecible par tout les processus enfantsqui sont définie avec export alors que la variable locale elle est eccecible uniquement dans le script ou la fonction où elle est définie sans export.
 4.  la structure if en bash permet d'exécuter des commande ssi une conditions est vrai
    exemple:
+
 #!/bin/bash
 
 fichier="monfichier.txt"
