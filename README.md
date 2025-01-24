@@ -30,3 +30,23 @@ echo " le  fichiern'existe pas"
 
 fi
 
+5. echo 'Malgré le prix élevé de 100$, il a dit'
+echo '"Bonjour !" au vendeur:'
+echo '"Bonjour est-ce que ce clavier fonctionne bien ?"'
+echo '"Evidemment ! On peut tout écrire avec, que ce soit des pipe | ou bien des backslash |\ !"'
+echo '"Même des tildes ~ ?"'
+echo '"Evidemment !"'
+
+6. fg %1
+
+7. 	Couche 2 :
+	Switch : Gère les adresses MAC, relie les appareils sur un même réseau.
+	Pont : Relie des segments de réseau.
+	Couche 3 :
+	Routeur : Gère les adresses IP, relie différents réseaux.
+	Passerelle : Relie des réseaux de types différents.
+
+8.	•	cd : cd
+	•	cp : Copy-Item
+	•	mkdir : mkdir 
+
